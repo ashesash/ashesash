@@ -1,7 +1,7 @@
 
 <div align="center">
 
- # Hi there, I'm Ash 👋 
+ # Hi there, I'm Ash 👋🧑🏽‍
 </div> 
 
 - 👀 I’m interested in optimising code to develop sustainable solutions
