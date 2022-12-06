@@ -28,7 +28,8 @@
 <br><br>
 
 [![Top Langs stats-light](https://github-readme-stats.vercel.app/api/top-langs/?username=ashesash&layout=compact&theme=vue)](https://github.com/ashesash/github-readme-stats#gh-light-mode-only)
- [![Top Langs stats-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ashesash&layout=compact&theme=react)](https://github.com/ashesash/github-readme-stats#gh-dark-mode-only)
+ 
+[![Top Langs stats-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ashesash&layout=compact&theme=react)](https://github.com/ashesash/github-readme-stats#gh-dark-mode-only)
  
 <br><br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=teal&right_color=grey)
