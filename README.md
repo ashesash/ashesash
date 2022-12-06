@@ -10,21 +10,28 @@
 - 💻 I predominantly code in Python but also well versed in HTML/CSS, C++, and Matlab.
 
 ---
- 
-  ### You can find me on:
 
-<div align="left">
+<div align="center">
+
+ ### You can find me on:
+ 
+ <br>
+
 <a href="https://www.linkedin.com/in/aishwaryasahu/">
     <img alt="Aishwarya Sahu Linkedin" src="linkedin4.png" height=50px>
 </a>
-</div>
-  <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="[https://github.io/asheshash](https://ashesash.github.io/)">
+    <img alt="Aishwarya Sahu Portfolio" src="web.png" height=50px>
+</a>
 
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashesash&layout=compact&theme=synthwave)](https://github.com/ashesash/github-readme-stats)
 <br><br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=teal&right_color=grey)
 
+ </div>
 
 
 
