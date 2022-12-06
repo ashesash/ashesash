@@ -15,7 +15,7 @@
 
 <div align="left">
 <a href="https://www.linkedin.com/in/aishwaryasahu/">
-    <img alt="Aishwarya Sahu Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="Aishwarya Sahu Linkedin" src="linkedin4.png" height=50px>
 </a>
 </div>
   <br>
