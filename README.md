@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on analytics projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashesash&layout=compact&theme=synthwave)](https://github.com/ashesash/github-readme-stats)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=teal&right_color=grey)
 
 
 
