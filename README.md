@@ -4,7 +4,7 @@
  # Hi there, I'm Ash 👋🏽
 </div> 
 
-- 👀 I’m interested in optimising code to develop sustainable solutions
+- 👀 I’m interested in optimising code to develop sustainable and efficient solutions
 - 🌱 I’m currently learning web dev and data analytics
 - 💞️ I’m looking to collaborate on analytics projects.
 - 💻 I predominantly code in Python but also well versed in HTML/CSS, C++, and Matlab.
