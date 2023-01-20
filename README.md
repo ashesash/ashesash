@@ -4,6 +4,8 @@
  # Hi there, I'm Ash 👋🏽
 </div> 
 
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?center=true&color=C9D1D9&font=Space+Mono&lines=Full+stack+engineer;Bootcamp+student;Forever+Tinkerer" height="70"></p>
+
 - 👀 I’m interested in optimising code to develop sustainable and efficient solutions
 - 🌱 I’m currently learning web dev and data analytics
 - 💞️ I’m looking to collaborate on analytics projects.
