@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning full stack engineering tools and data analytics
 - 💞️ I’m looking to collaborate on analytics projects or any open source projects for social good
 - 🌏 I have lived in 5 countries and hope to grow that list longer
-- 📸 I enjoy photography and birdwatching
+- 📸 I enjoy photography, birdwatching and modding mechanical keyboards
 - 🎸 I also play the guitar, just a couple of neat tunes
 - 😄 My pronouns are they/them/she/her
 
