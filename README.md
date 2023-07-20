@@ -5,7 +5,7 @@
  ## I'm based in Sydney, Australia
 </div> 
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?center=true&color=C9D1D9&font=Space+Mono&lines=Software+engineer;Bootcamp+student;Forever+Tinkerer" height="70"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?center=true&color=C9D1D9&font=Space+Mono&lines=Software+engineer;Bootcamp+Graduate;Forever+Tinkerer" height="70"></p>
 
 - 💻 I have a degree in Mechanical Engineering and I am retraining to work as a Software Engineer in Tech
 - 👀 I’m interested in optimising code to develop sustainable and efficient solutions
