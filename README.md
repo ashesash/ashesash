@@ -69,7 +69,7 @@
     <img alt="Aishwarya Sahu Linkedin" src="linkedin4.png" height=50px>
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ashesash.github.io/">
+<a href="https://ashsahu.com/">
     <img alt="Aishwarya Sahu Portfolio" src="web.png" height=50px>
 </a>
 
