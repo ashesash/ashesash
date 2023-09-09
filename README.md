@@ -36,7 +36,6 @@
     <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label="></a>
     <a href="#"><img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label="></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=222222&logo=Django&logoColor=092E20&label="></a>
-     <a href="#"><img alt="DRF" src="https://img.shields.io/static/v1?style=for-the-badge&message=DRF&color=222222&logo=DRF&logoColor=092E20&label="></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=222222&logo=Flask&logoColor=CCCCCC&label="></a>
 </p>
 
