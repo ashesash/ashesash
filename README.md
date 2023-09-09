@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?center=true&color=C9D1D9&font=Space+Mono&lines=Software+engineer;Bootcamp+Graduate;Forever+Tinkerer" height="70"></p>
 
-- 💻 I have a degree in Mechanical Engineering and I am retraining to work as a Software Engineer in Tech
+- 💻 I have a degree in Mechanical Engineering and I retrained to work as a Software Engineer by completely a bootcamp with She Code Australia
 - 👀 I’m interested in optimising code to develop sustainable and efficient solutions
 - 🌱 I’m currently learning full stack engineering tools and data analytics
 - 💞️ I’m looking to collaborate on analytics projects or any open source projects for social good
@@ -79,10 +79,6 @@
  
 [![Top Langs stats-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ashesash&layout=compact&theme=react)](https://github.com/ashesash/github-readme-stats#gh-dark-mode-only)
  
-<br>
- 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=teal&right_color=grey)
-
  </div>
 
 
