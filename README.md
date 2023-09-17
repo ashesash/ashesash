@@ -44,6 +44,7 @@
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=222222&logo=Git&logoColor=F05032&label="></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=222222&logo=PostgreSQL&logoColor=4479A1&label="></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=222222&logo=Docker&logoColor=61DAFB&label="></a>
 </p>
 
 ##### UI Software
