@@ -5,12 +5,12 @@
  ## I'm based in Sydney, Australia
 </div> 
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?center=true&color=C9D1D9&font=Space+Mono&lines=Software+engineer;Bootcamp+Graduate;Forever+Tinkerer" height="70"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?center=true&color=C9D1D9&font=Space+Mono&lines=Software+engineer;Forever+Tinkerer" height="70"></p>
 
-- 💻 I have a degree in Mechanical Engineering and I retrained to work as a Software Engineer by completely a bootcamp with She Code Australia
-- 👀 I’m interested in optimising code to develop sustainable and efficient solutions
-- 🌱 I’m currently learning full stack engineering tools and data analytics
-- 💞️ I’m looking to collaborate on analytics projects or any open source projects for social good
+- 💻 Software Engineer who also studied mechnical engineering
+- 👀 Interested in optimising code to develop sustainable and efficient solutions
+- 🌱 Currently learning cloud technologies
+- 💞️ Looking to collaborate on analytics projects or any open source projects for social good
 - 🌏 I have lived in 5 countries and hope to grow that list longer
 - 📸 I enjoy photography, birdwatching and modding mechanical keyboards
 - 🎸 I also play the guitar, just a couple of neat tunes
